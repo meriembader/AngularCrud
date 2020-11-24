@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "dekster",
+      "username": "meriem",
+      "email": "dekster.meriem@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "didi",
+      "username": "ameni",
+      "email": "dekster.ameni@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "aritz",
+      "username": "aduriz",
+      "email": "aritz.aduriz@belbao.com"
+    }
+  ]
+}
